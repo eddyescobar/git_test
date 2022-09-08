@@ -1,0 +1,2 @@
+This is my first time using git on the CL
+I hope to learn this very well in the coming months
